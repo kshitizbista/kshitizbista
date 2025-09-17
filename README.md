@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Kshitiz Bista
 
-<!--
-**kshitizbista/kshitizbista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📱 iOS Engineer
 
-Here are some ideas to get you started:
+Passionate about SwiftUI, clean architecture, and building apps that users love. Currently working with energy tech at **@tibber**. Always learning something new! 📱✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Experience
+
+- 📱 **iOS Engineer** @ **@tibber** (Stockholm, Sweden) — 2022 - Present
+- 🔗 **Integration Specialist** @ **@bambuser** (Stockholm, Sweden) — 2020 - 2022
+- 💻 **Software Engineer** @ **Cotiviti Nepal Pvt. Ltd** (Kathmandu, Nepal) — 2016 - 2019
+
+---
+
+## 🎓 Education
+
+- 📚 **Software Development Academy** - KTH Royal Institute of Technology (2020)
+- 🎯 **Bachelor of Science in Information Technology** - Lord Buddha Education Foundation (2012 - 2016)
+
+---
+
+## 📫 Contact
+
+- 📧 **Email**: [your.email@gmail.com](mailto:your.email@gmail.com)
+- 🌍 **Location**: Stockholm, Sweden
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+---
+
+✨ Thanks for visiting! Let's connect and build something awesome. 🚀
