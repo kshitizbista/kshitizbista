@@ -24,8 +24,8 @@ Passionate about SwiftUI, clean architecture, and building apps that users love.
 ## 📫 Contact
 
 - 📧 **Email**: [kshitiz.bista001@gmail.com](mailto:kshitiz.bista001@gmail.com)
-- 🌍 **Location**: Stockholm, Sweden
 - 💼 **LinkedIn**: [Kshitiz Bista](https://www.linkedin.com/in/kshitiz-bista/)
+- 🌍 **Location**: Stockholm, Sweden
 
 ---
 
