@@ -8,8 +8,8 @@ Passionate about SwiftUI, clean architecture, and building apps that users love.
 
 ## 🚀 Experience
 
-- 📱 **iOS Engineer** @ **@tibber** (Stockholm, Sweden) — 2022 - Present
-- 🔗 **Integration Specialist** @ **@bambuser** (Stockholm, Sweden) — 2020 - 2022
+- 📱 **iOS Engineer** @ @tibber (Stockholm, Sweden) — 2022 - Present
+- 🔗 **Integration Specialist** @ @bambuser (Stockholm, Sweden) — 2020 - 2022
 - 💻 **Software Engineer** @ **Cotiviti Nepal Pvt. Ltd** (Kathmandu, Nepal) — 2016 - 2019
 
 ---
@@ -23,9 +23,9 @@ Passionate about SwiftUI, clean architecture, and building apps that users love.
 
 ## 📫 Contact
 
-- 📧 **Email**: [your.email@gmail.com](mailto:your.email@gmail.com)
+- 📧 **Email**: [kshitiz.bista001@gmail.com](mailto:kshitiz.bista001@gmail.com)
 - 🌍 **Location**: Stockholm, Sweden
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn**: [Kshitiz Bista](https://www.linkedin.com/in/kshitiz-bista/)
 
 ---
 
