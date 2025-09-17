@@ -8,8 +8,8 @@ Passionate about SwiftUI, clean architecture, and building apps that users love.
 
 ## 🚀 Experience
 
-- 📱 **iOS Engineer** @ [@tibber](https://github.com/tibber) (Stockholm, Sweden) — 2022 - Present
-- 🔗 **Integration Specialist** @ [@bambuser](https://github.com/bambuser)(Stockholm, Sweden) — 2020 - 2022
+- 📱 **iOS Engineer** @ [Tibber](https://github.com/tibber) (Stockholm, Sweden) — 2022 - Present
+- 🔗 **Integration Specialist** @ [Bambuser](https://github.com/bambuser)(Stockholm, Sweden) — 2020 - 2022
 - 💻 **Software Engineer** @ **Cotiviti Nepal Pvt. Ltd** (Kathmandu, Nepal) — 2016 - 2019
 
 ---
